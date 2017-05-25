@@ -65,6 +65,7 @@
 		{ "name": "COFFEE", "icon": "/file-icons/file_type_coffescript.png" },
 		{ "name": "JAVA", "icon": "/file-icons/file_type_java.png" },
 		{ "name": "PHP", "icon": "/file-icons/file_type_php.png" },
+		{ "name": "TWIG", "icon": "/file-icons/file_type_twig.png" },
 		{ "name": "VUE", "icon": "/file-icons/file_type_vue.png" },
 		{ "name": "SHELL", "icon": "/file-icons/file_type_source.png" },
 		{ "name": "MARKDOWN", "icon": "/file-icons/file_type_markdown.png" },
@@ -201,6 +202,11 @@
 			"extensions": [ "php" ],
 			"types": [ "php" ],
 			"icon": "PHP"
+		},
+		{
+			"extensions": [ "twig" ],
+			"types": [ "twig" ],
+			"icon": "TWIG"
 		},
 		{
 			"extensions": [ "hs", "lhs" ],
